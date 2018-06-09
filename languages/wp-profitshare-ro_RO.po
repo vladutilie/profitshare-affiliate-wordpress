@@ -1,0 +1,778 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Profitshare\n"
+"POT-Creation-Date: 2018-06-06 18:44+0300\n"
+"PO-Revision-Date: 2018-06-06 18:45+0300\n"
+"Last-Translator: Vlăduț Ilie <vladilie94@gmail.com>\n"
+"Language-Team: Vlăduț Ilie <vladilie94@gmail.com>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: wp-profitshare.php\n"
+"X-Poedit-SearchPath-1: includes/class-campaigns.php\n"
+"X-Poedit-SearchPath-2: includes/class-conversions.php\n"
+"X-Poedit-SearchPath-3: includes/class-history-links.php\n"
+"X-Poedit-SearchPath-4: includes/class-keywords-list.php\n"
+"X-Poedit-SearchPath-5: includes/class-tag-images-list.php\n"
+"X-Poedit-SearchPath-6: includes/functions.php\n"
+
+#: includes/class-campaigns.php:20
+msgid "Generate URL"
+msgstr "Generează URL"
+
+#: includes/class-campaigns.php:28
+msgid "View banners"
+msgstr "Vezi bannere"
+
+#: includes/class-campaigns.php:59
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-campaigns.php:60
+msgid "Campaign name"
+msgstr "Nume campanie"
+
+#: includes/class-campaigns.php:61 includes/class-conversions.php:71
+msgid "Advertiser"
+msgstr "Agent de publicitate"
+
+#: includes/class-campaigns.php:62
+msgid "URL"
+msgstr "URL"
+
+#: includes/class-campaigns.php:63
+msgid "PS URL"
+msgstr "URL PS"
+
+#: includes/class-campaigns.php:64 includes/class-campaigns.php:133
+#: includes/class-conversions.php:70 includes/class-conversions.php:141
+msgid "Status"
+msgstr "Stare"
+
+#: includes/class-campaigns.php:65
+msgid "Start date"
+msgstr "Data de început"
+
+#: includes/class-campaigns.php:66
+msgid "End date"
+msgstr "Data de sfârșit"
+
+#: includes/class-campaigns.php:95 includes/class-conversions.php:103
+msgid "Filter by"
+msgstr "Filtrează după"
+
+#: includes/class-campaigns.php:104 includes/class-conversions.php:111
+msgid "Advertiser name"
+msgstr "Nume agent de publicitate"
+
+#: includes/class-conversions.php:23
+msgid "Approved"
+msgstr "Aprobat"
+
+#: includes/class-conversions.php:23
+msgid "Pending"
+msgstr "În așteptare"
+
+#: includes/class-conversions.php:23
+msgid "Canceled"
+msgstr "Anulat"
+
+#: includes/class-conversions.php:68
+msgid "Order number"
+msgstr "Număr de ordine"
+
+#: includes/class-conversions.php:69
+msgid "Commission value"
+msgstr "Valoare comision"
+
+#: includes/class-conversions.php:72
+msgid "Conversion date"
+msgstr "Dată conversie"
+
+#: includes/class-conversions.php:73
+msgid "Last update"
+msgstr "Ultima actualizare"
+
+#: includes/class-conversions.php:179
+msgid "Min conversion value"
+msgstr "Valoare minimă de conversie"
+
+#: includes/class-history-links.php:49
+msgid "Source"
+msgstr "Sursă"
+
+#: includes/class-history-links.php:50
+msgid "Link advertiser"
+msgstr "Legătură agent de publicitate"
+
+#: includes/class-history-links.php:51
+msgid "Link profitshare"
+msgstr "Legătură profitshare"
+
+#: includes/class-history-links.php:52 includes/class-tag-images-list.php:67
+msgid "Date"
+msgstr "Dată"
+
+#: includes/class-keywords-list.php:19 includes/class-tag-images-list.php:33
+#: includes/functions.php:840 includes/functions.php:859
+msgid "Edit"
+msgstr "Editează"
+
+#: includes/class-keywords-list.php:19 includes/class-tag-images-list.php:33
+msgid "Delete"
+msgstr "Șterge"
+
+#: includes/class-keywords-list.php:48 wp-profitshare.php:582
+#: wp-profitshare.php:660
+msgid "Keyword"
+msgstr "Cuvânt cheie"
+
+#: includes/class-keywords-list.php:49 wp-profitshare.php:594
+#: wp-profitshare.php:672
+msgid "Link"
+msgstr "Legătură"
+
+#: includes/class-keywords-list.php:50 includes/class-tag-images-list.php:68
+msgid "Action"
+msgstr "Acțiune"
+
+#: includes/class-tag-images-list.php:64 wp-profitshare.php:588
+#: wp-profitshare.php:666 wp-profitshare.php:1265 wp-profitshare.php:1299
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/class-tag-images-list.php:65 wp-profitshare.php:1271
+#: wp-profitshare.php:1305
+msgid "Image"
+msgstr "Imagine"
+
+#: includes/class-tag-images-list.php:66
+msgid "Shortcode"
+msgstr "Scurtcod"
+
+#: includes/functions.php:7
+msgid "Romania"
+msgstr "România"
+
+#: includes/functions.php:12
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: includes/functions.php:391
+msgid "Batch type cannot be empty!"
+msgstr "Tipul lotului nu poate fi gol!"
+
+#: includes/functions.php:522
+#, php-format
+msgid "Comment #%1$s"
+msgstr "Comentariu #%1$s"
+
+#: includes/functions.php:799 wp-profitshare.php:105
+msgid "WP Profitshare"
+msgstr "WP Profitshare"
+
+#: includes/functions.php:811
+msgid "Current earnings:"
+msgstr "Câștiguri curente:"
+
+#: includes/functions.php:826
+msgid "Unlimited"
+msgstr "Nelimitat"
+
+#: includes/functions.php:827
+msgid "0 Links"
+msgstr "0 legături"
+
+#: includes/functions.php:828
+msgid "1 Link"
+msgstr "1 legătură"
+
+#: includes/functions.php:829
+msgid "3 Links"
+msgstr "3 legături"
+
+#: includes/functions.php:830
+msgid "5 Links"
+msgstr "5 legături"
+
+#: includes/functions.php:831
+msgid "10 Links"
+msgstr "10 legături"
+
+#: includes/functions.php:837
+msgid "Limit shorten links:"
+msgstr "Limită legături scrutate:"
+
+#: includes/functions.php:848 includes/functions.php:867
+msgid "OK"
+msgstr "Ok"
+
+#: includes/functions.php:849 includes/functions.php:868
+msgid "Cancel"
+msgstr "Anulează"
+
+#: includes/functions.php:856
+msgid "Limit keyword links:"
+msgstr "Limită legături cuvinte cheie:"
+
+#: wp-profitshare.php:131
+msgid "Plugin Settings"
+msgstr "Setări modul"
+
+#: wp-profitshare.php:134 wp-profitshare.php:400
+msgid "Keyword Settings"
+msgstr "Setări cuvinte cheie"
+
+#: wp-profitshare.php:135 wp-profitshare.php:975
+msgid "Conversions"
+msgstr "Conversii"
+
+#: wp-profitshare.php:137 wp-profitshare.php:1155
+msgid "Tag Image"
+msgstr "Etichetă imagine"
+
+#: wp-profitshare.php:138 wp-profitshare.php:1398
+msgid "Link history"
+msgstr "Istoric legături"
+
+#: wp-profitshare.php:139
+msgid "Help"
+msgstr "Ajutor"
+
+#: wp-profitshare.php:202
+msgid ""
+"Connected: API data is correct and the connection has been successful "
+"established."
+msgstr ""
+"Conectat: datele API-ului sunt corecte și conexiunea a fost stabilită cu "
+"succes."
+
+#: wp-profitshare.php:205
+msgid "Disconnected: API data is incorrect or connection error occurred."
+msgstr ""
+"Deconectat: datele API-urilui sunt incorecte sau au apărut erori la "
+"conexiune."
+
+#: wp-profitshare.php:219
+msgid "Profitshare plugin options"
+msgstr "Opțiunui modul Profitshare"
+
+#: wp-profitshare.php:231
+msgid "API user"
+msgstr "Utilizator API"
+
+#: wp-profitshare.php:235
+msgid "API key"
+msgstr "Cheie API"
+
+#: wp-profitshare.php:240
+msgid "Country"
+msgstr "Țară"
+
+#: wp-profitshare.php:285
+msgid "Profitshare links in posts"
+msgstr "Legături Profitshare în articole"
+
+#: wp-profitshare.php:288 wp-profitshare.php:300 wp-profitshare.php:313
+msgid "On"
+msgstr "Pornit"
+
+#: wp-profitshare.php:288 wp-profitshare.php:300 wp-profitshare.php:313
+msgid "Off"
+msgstr "Oprit"
+
+#: wp-profitshare.php:293 wp-profitshare.php:305 wp-profitshare.php:318
+msgid "Generate"
+msgstr "Generează"
+
+#: wp-profitshare.php:298
+msgid "Profitshare links in pages"
+msgstr "Legături Profitshare în pagini"
+
+#: wp-profitshare.php:311
+msgid "Profitshare links in comments"
+msgstr "Legături Profitshare în comentarii"
+
+#: wp-profitshare.php:325
+msgid ""
+"By clicking on \"Generate!\" all your direct links from all your posts/ "
+"comments published so far will be converted into affiliate links."
+msgstr ""
+"Prin clic pe „Generează”, toate legăturile directe de la toate articolele/"
+"comentariile publicate până acum vor fi convertite în legături afiliate."
+
+#: wp-profitshare.php:328
+msgid ""
+"By clicking on \"Enable!\" all the links from your future posts/ comments "
+"will be automatically converted into Profitshare affiliate links."
+msgstr ""
+"Prin clic pe „Activare”, toate legăturile din articolele/comentariile "
+"viitoare vor fi automat convertite în legături Profitshare afiliate."
+
+#: wp-profitshare.php:331
+msgid ""
+"We recommend making a backup of you database before running this "
+"functionality."
+msgstr ""
+"Recomandăm să faci o copie de rezervă la baza de date înainte să ruleze "
+"această funcționalitate."
+
+#: wp-profitshare.php:401
+msgid "Add keyword"
+msgstr "Adaugă cuvânt cheie"
+
+#: wp-profitshare.php:402
+msgid "Show keywords list"
+msgstr "Arată lista de cuvinte cheie"
+
+#: wp-profitshare.php:415
+msgid "Keyword deleted."
+msgstr "Cuvânt cheie șters."
+
+#: wp-profitshare.php:417
+msgid "Keyword delete error."
+msgstr "Eroare la ștergerea cuvântului cheie."
+
+#: wp-profitshare.php:424 wp-profitshare.php:490
+msgid "<strong>Keyword</strong> required."
+msgstr "<strong>Cuvânt cheie</strong> necesar."
+
+#: wp-profitshare.php:427 wp-profitshare.php:493 wp-profitshare.php:1181
+#: wp-profitshare.php:1210
+msgid "<strong>Title</strong> required."
+msgstr "<strong>Titlu</strong> necesar."
+
+#: wp-profitshare.php:430
+msgid "<strong>Link </strong> required."
+msgstr "<strong>Legătură</strong> necesară."
+
+#: wp-profitshare.php:433 wp-profitshare.php:438
+#, php-format
+msgid "<strong>Your link</strong> must start with %1$s/l/"
+msgstr "<strong>Legătura ta</strong> trebuie să înceapă cu %1$s/l/"
+
+#: wp-profitshare.php:443 wp-profitshare.php:509
+msgid "<strong>Open link in...</strong> required."
+msgstr "<strong>Deschide legătura în</strong> necesar."
+
+#: wp-profitshare.php:447 wp-profitshare.php:513
+msgid "<strong>Tooltip title</strong> required."
+msgstr "<strong>Titlu text explicativ</strong> necesar."
+
+#: wp-profitshare.php:450 wp-profitshare.php:516
+msgid "<strong>Tooltip description</strong> required."
+msgstr "<strong>Descriere text explocativ</strong> necesar."
+
+#: wp-profitshare.php:482
+msgid "Keyword saved."
+msgstr "Cuvânt cheie salvat."
+
+#: wp-profitshare.php:496
+msgid "<strong>Link</strong> required."
+msgstr "<strong>Legătură</strong> necesară."
+
+#: wp-profitshare.php:499 wp-profitshare.php:504
+#, php-format
+msgid "<strong>Your link</strong> must contain %1$s."
+msgstr "<strong>Legătura ta</strong> trebuie să conțină %1$s."
+
+#: wp-profitshare.php:600 wp-profitshare.php:678
+msgid "Open link in"
+msgstr "Deschide legătura în"
+
+#: wp-profitshare.php:603 wp-profitshare.php:681
+msgid "New window or tab (_blank)"
+msgstr "Fereastră sau filă nouă (_blank)"
+
+#: wp-profitshare.php:604 wp-profitshare.php:682
+msgid "Same window or tab (_none )"
+msgstr "Aceeași fereastră sau filă (_none)"
+
+#: wp-profitshare.php:609 wp-profitshare.php:687
+msgid "Tooltip"
+msgstr "Text explicativ"
+
+#: wp-profitshare.php:611 wp-profitshare.php:689
+msgid "Yes"
+msgstr "Da"
+
+#: wp-profitshare.php:612 wp-profitshare.php:690
+msgid "No"
+msgstr "Nu"
+
+#: wp-profitshare.php:616 wp-profitshare.php:694
+msgid "Design tooltip"
+msgstr "Design text explicativ"
+
+#: wp-profitshare.php:618 wp-profitshare.php:696
+msgid "Light"
+msgstr "Deschis"
+
+#: wp-profitshare.php:619 wp-profitshare.php:697
+msgid "Dark"
+msgstr "Întunecat"
+
+#: wp-profitshare.php:623 wp-profitshare.php:701
+msgid "Tooltip title"
+msgstr "Titlu text explicativ"
+
+#: wp-profitshare.php:629 wp-profitshare.php:707
+msgid "Tooltip description"
+msgstr "Descriere text explicativ"
+
+#: wp-profitshare.php:635 wp-profitshare.php:713
+msgid "Tooltip image"
+msgstr "Imagine text explicativ"
+
+#: wp-profitshare.php:638 wp-profitshare.php:716
+msgid "Select Image"
+msgstr "Selectează imagine"
+
+#: wp-profitshare.php:756
+msgid "Advertisers campaigns"
+msgstr "Campanii agenți de publicitate"
+
+#: wp-profitshare.php:773
+#, php-format
+msgid "WP Profitshare - Campaign %1$s"
+msgstr "WP Profitshare - Campania %1$s"
+
+#: wp-profitshare.php:795
+msgid "Campaign name:"
+msgstr "Nume campanie:"
+
+#: wp-profitshare.php:798
+msgid "Advertiser:"
+msgstr "Agent de publicitate:"
+
+#: wp-profitshare.php:801
+msgid "Campaign URL:"
+msgstr "URL campanie:"
+
+#: wp-profitshare.php:805
+msgid "PS URL:"
+msgstr "URL PS:"
+
+#: wp-profitshare.php:809
+msgid "Status:"
+msgstr "Stare:"
+
+#: wp-profitshare.php:812
+msgid "Start date:"
+msgstr "Dată de început:"
+
+#: wp-profitshare.php:815
+msgid "End date:"
+msgstr "Dată de sfârșit:"
+
+#: wp-profitshare.php:819
+msgid "Campaign banners:"
+msgstr "Bannere campanie:"
+
+#: wp-profitshare.php:895
+msgid "Successfully copied to clipboard!"
+msgstr "Copiat cu succes în clipboard!"
+
+#: wp-profitshare.php:980
+msgid "Your current earnings are"
+msgstr "Câștigurile tale curente sunt"
+
+#: wp-profitshare.php:991
+msgid "Your conversions has been updated with success!"
+msgstr "Conversiile tale au fost actualizate cu succes!"
+
+#: wp-profitshare.php:1000
+msgid "Last update:"
+msgstr "Ultima actualizare:"
+
+#: wp-profitshare.php:1012
+msgid "Get link"
+msgstr "Obține legătură"
+
+#: wp-profitshare.php:1035
+msgid ""
+"An error occurred or link is not part of Profitshare and can not be "
+"generated."
+msgstr ""
+"A apărut o eroare sau legătura nu face parte din Profitshare și nu poate fi "
+"generată."
+
+#: wp-profitshare.php:1044
+msgid "Copy"
+msgstr "Copiază"
+
+#: wp-profitshare.php:1079
+msgid "Link copied to clipboard!"
+msgstr "Legătură copiată în clipboard!"
+
+#: wp-profitshare.php:1156
+msgid "Add image"
+msgstr "Adaugă imagine"
+
+#: wp-profitshare.php:1157
+msgid "Show images list"
+msgstr "Arată lista de imagini"
+
+#: wp-profitshare.php:1170
+msgid "Image deleted."
+msgstr "Imagine ștearsă."
+
+#: wp-profitshare.php:1172
+msgid "Image delete error."
+msgstr "Eroare la ștergerea imaginii."
+
+#: wp-profitshare.php:1184 wp-profitshare.php:1213
+msgid "<strong>Image</strong> required."
+msgstr "<strong>Imagine</strong> necesară."
+
+#: wp-profitshare.php:1200 wp-profitshare.php:1229
+msgid "Tag Image saved."
+msgstr "Etichetă imagine salvată."
+
+#: wp-profitshare.php:1273 wp-profitshare.php:1307
+msgid "Delete tags"
+msgstr "Șterge etichetă"
+
+#: wp-profitshare.php:1431
+#, php-format
+msgid "<h2>Generate ProfitShare links for %1$s</h2>"
+msgstr "<h2>Generează legături ProfitShare pentru %1$s</h2>"
+
+#: wp-profitshare.php:1434
+msgid ""
+"<p>Please do not refresh the page until the process is done, otherwise the "
+"process will start from the begining.</p>"
+msgstr "<p></p>"
+
+#: wp-profitshare.php:1435
+#, php-format
+msgid "<p>Total items to process: %1$s</p>"
+msgstr ""
+
+#: wp-profitshare.php:1438
+#, php-format
+msgid "<p>Processed items: %1$s</p>"
+msgstr ""
+
+#: wp-profitshare.php:1442
+msgid "Loading..."
+msgstr ""
+
+#: wp-profitshare.php:1459
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: wp-profitshare.php:1460
+msgid "What is Profitshare?"
+msgstr ""
+
+#: wp-profitshare.php:1462
+msgid ""
+"Profitshare is an affiliate marketing network, that is, a performance driven "
+"marketing tool."
+msgstr ""
+
+#: wp-profitshare.php:1464
+msgid "What is an advertiser?"
+msgstr ""
+
+#: wp-profitshare.php:1466
+msgid ""
+"The advertiser is the one that wants to have its products or services "
+"advertised on the internet in order to obtain clients and increase its "
+"revenue."
+msgstr ""
+
+#: wp-profitshare.php:1468
+msgid "What is an affiliate?"
+msgstr ""
+
+#: wp-profitshare.php:1470
+msgid ""
+"The affiliate is the one that advertises products and services offered by "
+"advertisers, through agreed methods, and earns a percentage of each sale "
+"that is made as a result of this."
+msgstr ""
+
+#: wp-profitshare.php:1472
+msgid "Who is the client?"
+msgstr ""
+
+#: wp-profitshare.php:1474
+msgid ""
+"The client is the one that reaches advertisers' websites thanks to affiliate "
+"promotion. This client may then perform a pre-established action on the "
+"advertiser's website like: making a purchase, subscribing to a newsletter, "
+"signing up for an account etc."
+msgstr ""
+
+#: wp-profitshare.php:1475
+msgid ""
+"As <strong>an affiliate</strong> you gain access to a wide range of brands "
+"and varied products and services that can satisfy any kind of advertising "
+"projects, using efficient affiliate marketing tools. As <strong>an "
+"advertiser</strong>, the biggest advantage is acquiring an extensive "
+"community of ambassadors for your products or services from the affiliate "
+"marketing network"
+msgstr ""
+
+#: wp-profitshare.php:1477
+msgid "What is Profitshare for affiliates?"
+msgstr ""
+
+#: wp-profitshare.php:1479
+msgid ""
+"The <strong>Profitshare affiliate plugin</strong> is a tool that helps you "
+"grow your conversion rate and gain money online. Profitshare for affiliates "
+"lets you see your conversion history, facilitates generating affiliate links "
+"automatically or manually whenever you publish a new post. You can also "
+"watch your current earnings directly from your WordPress interface and you "
+"can replace al your existing links with affiliate links so that you can earn "
+"money with all your previous posts."
+msgstr ""
+
+#~ msgid "Horoscope"
+#~ msgstr "Horoscop"
+
+#~ msgid "Put me in the sidebar to show you what I can."
+#~ msgstr "Pune-mă într-un sidebar să îți arăt ce pot face."
+
+#~ msgid "Aries"
+#~ msgstr "Berbec"
+
+#~ msgid "March 21st - April 20th"
+#~ msgstr "21 martie - 20 aprilie"
+
+#~ msgid "Taurus"
+#~ msgstr "Taur"
+
+#~ msgid "April 21st - May 21st"
+#~ msgstr "21 aprilie - 21 mai"
+
+#~ msgid "Gemini"
+#~ msgstr "Gemeni"
+
+#~ msgid "May 22nd - June 21st"
+#~ msgstr "22 mai - 21 iunie"
+
+#~ msgid "June 22nd - July 22nd"
+#~ msgstr "22 iunie - 22 iulie"
+
+#~ msgid "Leo"
+#~ msgstr "Leu"
+
+#~ msgid "July 23rd - August 22nd"
+#~ msgstr "23 iulie - 22 august"
+
+#~ msgid "Virgo"
+#~ msgstr "Fecioară"
+
+#~ msgid "August 23rd - September 22nd"
+#~ msgstr "23 august - 22 septembrie"
+
+#~ msgid "Libra"
+#~ msgstr "Balanță"
+
+#~ msgid "September 23rd - October 22nd"
+#~ msgstr "23 septembrie - 22 octombrie"
+
+#~ msgid "Scorpio"
+#~ msgstr "Scorpion"
+
+#~ msgid "October 23rd - November 21st"
+#~ msgstr "23 octombrie - 21 noiembrie"
+
+#~ msgid "Sagittarius"
+#~ msgstr "Săgetător"
+
+#~ msgid "November 22nd - December 21st"
+#~ msgstr "22 noiembrie - 21 decembrie"
+
+#~ msgid "Capricorn"
+#~ msgstr "Capricorn"
+
+#~ msgid "December 22nd - January 19th"
+#~ msgstr "22 decembrie - 19 ianuarie"
+
+#~ msgid "Aquarius"
+#~ msgstr "Vărsător"
+
+#~ msgid "January 20th - February 18th"
+#~ msgstr "20 ianuarie - 18 februarie"
+
+#~ msgid "Pisces"
+#~ msgstr "Pești"
+
+#~ msgid "February 19th - March 20th"
+#~ msgstr "19 februarie - 20 martie"
+
+#~ msgid "Icon"
+#~ msgstr "Iconiță"
+
+#~ msgid "Display"
+#~ msgstr "Afișare"
+
+#~ msgid "Icons matrix"
+#~ msgstr "Matrice cu iconițe"
+
+#~ msgid "Ordered list"
+#~ msgstr "Listă ordonată"
+
+#~ msgid "Show"
+#~ msgstr "Afișare"
+
+#~ msgid "Fade"
+#~ msgstr "Atenuare"
+
+#~ msgid "Slide"
+#~ msgstr "Glisare"
+
+#~ msgid "Speed"
+#~ msgstr "Viteză"
+
+#~ msgid "Slow"
+#~ msgstr "Încet"
+
+#~ msgid "Fast"
+#~ msgstr "Rapid"
+
+#~ msgid "Check it for showing the acvaria.com credits in the widget."
+#~ msgstr "Bifează căsuța pentru a afișa credite site-ului acvaria.com."
+
+#~ msgid "Show a link to Acvaria&reg; site."
+#~ msgstr "Afișează un link spre site-ul Acvaria&reg;."
+
+#~ msgid "The chosen sign is not correct. Reload the page and try again."
+#~ msgstr "Zodia a fost aleasă greșit. Reîncarcă pagina și încearcă din nou."
+
+#~ msgid "The content of this star sign has not been updated correctly."
+#~ msgstr "Conținutul acestei zodii nu a fost actualizat corect."
+
+#~ msgid "%1$sTaken with care from %2$s"
+#~ msgstr "%1$sPreluat cu grijă de la %2$s"
+
+#~ msgid ""
+#~ "The Horoscope plugin does not collect and/or process any personal data of "
+#~ "users. The only data which it processes and collects are related to the "
+#~ "strictly functionality of the plugin (such data being the name of the "
+#~ "horoscope's stars and its predictions, data retrieved from acvaria.com "
+#~ "through the free agreement of the third party)."
+#~ msgstr ""
+#~ "Modulul Horoscop nu colectează și/sau nu procesează nicio informație cu "
+#~ "caracter personal a utilizatorilor. Singurele informații pe care le "
+#~ "procesează și le colectează sunt legate de funcționalitatea strictă a "
+#~ "modulului (aceste date sunt numelele zodiilor din horoscop și "
+#~ "previziunile lor, date preluate de la acvaria.com prin acordul liber al "
+#~ "terței părți)."
+
+#~ msgid "Horoscope plugin"
+#~ msgstr "Modul Horoscop"
+
+#~ msgid "Make an update every six hours"
+#~ msgstr "Actualizează informațiile o dată la șase ore"
